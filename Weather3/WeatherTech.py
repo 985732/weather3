@@ -2,4 +2,4 @@ print ("The weather today in New York is cloudy with a high of 50, and a low of 
 print ("Thursday's weather in New York City is mostly cloudy with a high of 55, and a low of 37")
 print ("Friday's weather in New York is partly cloudy with a high of 55 and low of 37")
 print ("Saturday's weather in New York is Mostly Sunny with a high of 43 and a low of 35.")
-
+print ("Sunday's weather in New York is mostly sunny with a high of 52, and a low of 46")
