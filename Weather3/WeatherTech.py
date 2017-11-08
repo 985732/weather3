@@ -4,3 +4,4 @@ print ("Friday's weather in New York is partly cloudy with a high of 55 and low 
 print ("Saturday's weather in New York is Mostly Sunny with a high of 43 and a low of 35.")
 print ("Sunday's weather in New York is mostly sunny with a high of 52, and a low of 46")
 print ("Monday's weather in New York is rainy with a high of 53 and low of 46")
+print ("Tuesday's weather in New York is Partly Cloudly with a high of 55 and a low of 42.")
